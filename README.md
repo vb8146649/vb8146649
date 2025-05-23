@@ -60,7 +60,8 @@ for freelance work? do reach, [email](mailto:vb8146649@gmail.com) :)
 
 ## 🔥 Github Stats
 
-<a href="https://github.com/vb8146649"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vb8146649&theme=radical&title_color=ff3068?"></a>
-<a href="https://github.com/vb8146649"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vb8146649&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzNjB4eXNia3M0NW9hcjV4amlldTBmajd1c3Zna2Y4M2tyb2h4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0vWExNv2l9UcPCXnHR/giphy.gif"/>
+    <a href="https://github.com/vb8146649"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vb8146649&theme=radical&title_color=ff3068?"></a>
+    <a href="https://github.com/vb8146649"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vb8146649&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 
