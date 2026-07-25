@@ -5,7 +5,6 @@
 
 
 for freelance work? do reach, [email](mailto:vb8146649@gmail.com) :)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <details>
   <summary>🧑 More about me</summary>
 
