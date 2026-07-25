@@ -5,7 +5,7 @@
 
 
 for freelance work? do reach, [email](mailto:vb8146649@gmail.com) :)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <details>
   <summary>🧑 More about me</summary>
 
@@ -33,7 +33,7 @@ for freelance work? do reach, [email](mailto:vb8146649@gmail.com) :)
 ![Power BI](https://img.shields.io/badge/Power%20BI-FDEE21?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+<!--![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)-->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F05033.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -60,7 +60,9 @@ for freelance work? do reach, [email](mailto:vb8146649@gmail.com) :)
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzNjB4eXNia3M0NW9hcjV4amlldTBmajd1c3Zna2Y4M2tyb2h4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0vWExNv2l9UcPCXnHR/giphy.gif"/>
+[![Vishal's GitHub stats](https://github-stats-extended.vercel.app/api?username=vb8146649)](https://github.com/stats-organization/github-stats-extended)
+<!-- <img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzNjB4eXNia3M0NW9hcjV4amlldTBmajd1c3Zna2Y4M2tyb2h4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0vWExNv2l9UcPCXnHR/giphy.gif"/> -->
+
     <a href="https://github.com/vb8146649"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vb8146649&theme=radical&title_color=ff3068?"></a>
     <a href="https://github.com/vb8146649"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vb8146649&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
